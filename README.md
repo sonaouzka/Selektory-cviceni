@@ -1,5 +1,5 @@
 # Cvičení na CSS selektory
-1. Udělej si fork tohoto repozitáře - tím se ti úkol zkopíruje to tvého Github účtu.  
+1. Udělej si *fork* tohoto repozitáře (vpravo nahoře) - tím se ti úkol zkopíruje to tvého Github účtu.  
 2. Tuto složku si potom naklonuj k sobě na disk. 
 3. Tady už můžeš přidávat, commitovat a pushovat změny a uvidíš je na svém Githubu.  
 
