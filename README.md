@@ -1,7 +1,17 @@
 # Cvičení na CSS selektory
-1. Udělej si *fork* tohoto repozitáře (vpravo nahoře) - tím se ti úkol zkopíruje to tvého Github účtu.  
-2. Tuto zkopírovanou složku si ze svého Githubu potom naklonuj k sobě na disk. (Zkopíruj si odkaz se záložky *clone* a potom v terminálu ve vybrané složce spusť příkaz ```git clone ODKAZ```. Například ```git clone https://github.com/marketaanezka/Selektory-cviceni.git```.)  
-3. Tady už můžeš přidávat, commitovat a pushovat změny a uvidíš je na svém Githubu.  
+## Fork úkolu
+1. Přihlas se do Githubu.
+2. Udělej si *fork* tohoto repozitáře (vpravo nahoře). Tím se ti úkol zkopíruje to tvého Github účtu.  
+![fork](fork.png)
+3. Tuto zkopírovanou složku si ze svého Githubu potom naklonuj k sobě na disk.
+
+![clone](clone.png)
+
+ Zkopíruj si odkaz se záložky *clone* a potom v terminálu ve vybrané složce spusť příkaz ```git clone ODKAZ```. Například ```git clone https://github.com/marketaanezka/Selektory-cviceni.git```.
+ 
+![git clone](gitclone.png)
+4. Tady už můžeš přidávat, commitovat a pushovat změny a uvidíš je na svém Githubu.  
+Na to, jak udělat fork repozitáře se můžes podívat na [krátkém videu](https://youtu.be/K7rE3jRCjD4).
 
 ## Zadání 
 Prohlédni si soubor index.html a spusť si ho v Live Serveru. Uvidíš *seznam kontaktů*. 
