@@ -1,6 +1,6 @@
 # Cvičení na CSS selektory
 1. Udělej si *fork* tohoto repozitáře (vpravo nahoře) - tím se ti úkol zkopíruje to tvého Github účtu.  
-2. Tuto složku si potom naklonuj k sobě na disk. 
+2. Tuto zkopírovanou složku si ze svého Githubu potom naklonuj k sobě na disk. (Zkopíruj si odkaz se záložky *clone* a potom v terminálu ve vybrané složce spusť příkaz ```git clone ODKAZ```. Například ```git clone https://github.com/marketaanezka/Selektory-cviceni.git```.)  
 3. Tady už můžeš přidávat, commitovat a pushovat změny a uvidíš je na svém Githubu.  
 
 ## Zadání 
