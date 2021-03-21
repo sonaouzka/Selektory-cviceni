@@ -44,7 +44,7 @@ Prohlédni si strukturu html souboru.
 
 ### Ulož si změny do Githubu
 
-V terminálu se přesuň do správné složky. Pro přesunutí do složky použij , pro přesun o složku výš použij `cd ..`
+V terminálu se přesuň do správné složky. Pro přesunutí do složky použij  `cd NAZEVSLOZKY`, pro přesun o složku výš použij `cd ..`
 
 ![git clone](git/folder.png)
 
