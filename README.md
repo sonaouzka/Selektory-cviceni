@@ -1,6 +1,6 @@
 # Cvičení na CSS selektory
-1. Udělej si fork tohoto repozitáře - tím se ti úkol zkopíruje to tvého Github účtu.  
-2. Tuto složku si potom naklonuj k sobě na disk. 
+1. Udělej si *fork* tohoto repozitáře (vpravo nahoře) - tím se ti úkol zkopíruje to tvého Github účtu.  
+2. Tuto zkopírovanou složku si ze svého Githubu potom naklonuj k sobě na disk. (Zkopíruj si odkaz se záložky *clone* a potom v terminálu ve vybrané složce spusť příkaz ```git clone ODKAZ```. Například ```git clone https://github.com/marketaanezka/Selektory-cviceni.git```.)  
 3. Tady už můžeš přidávat, commitovat a pushovat změny a uvidíš je na svém Githubu.  
 
 ## Zadání 
@@ -18,7 +18,7 @@ Prohlédni si strukturu html souboru.
    1. ikonka zvětšila. Použij pro to vlasnost a hodnotu ```transform: scale(1.3);```
    2. kurzor změnil na pointer/ručičku (vlasnost ```cursor```)
 #### Bonus
-  -  Pro plynulé zvětšení si najdi použití vlastnosti ```transform``` a uplatni ho na ikonky.
+  -  Pro plynulé zvětšení si najdi použití vlastnosti ```transition``` a uplatni ho na ikonky.
 
 ## Výsledek 
 Takto by měl vypadat výsledek: 
