@@ -46,9 +46,9 @@ Prohlédni si strukturu html souboru.
 
 V terminálu se přesuň do správné složky. Pro přesunutí do složky použij , pro přesun o složku výš použij `cd ..`
 
-![git clone](git/folder.png) \
+![git clone](git/folder.png)
 
-Ve složce postupně spusť tyto příkazy:\
+Ve složce postupně spusť tyto příkazy:
 
 1. `git add .`
 2. `git commit -m "Moje zprava"`
