@@ -7,7 +7,7 @@
 
 ![clone](clone.png)
 
- Zkopíruj si odkaz se záložky *clone* a potom v terminálu ve vybrané složce spusť příkaz ```git clone ODKAZ```. Například ```git clone https://github.com/marketaanezka/Selektory-cviceni.git```.
+ Zkopíruj si odkaz se záložky **clone** a potom v terminálu ve vybrané složce spusť příkaz ```git clone ODKAZ```. Například ```git clone https://github.com/marketaanezka/Selektory-cviceni.git```.
  
 ![git clone](gitclone.png)
 4. Tady už můžeš přidávat, commitovat a pushovat změny a uvidíš je na svém Githubu.  
