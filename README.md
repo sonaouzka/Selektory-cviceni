@@ -1,9 +1,9 @@
 # Cvičení na CSS selektory
 ## Fork úkolu
 1. Přihlas se do Githubu.
-2. Udělej si *fork* tohoto repozitáře (vpravo nahoře). Tím se ti úkol zkopíruje to tvého Github účtu.  
+2. Udělej si **fork** tohoto repozitáře (vpravo nahoře). Tím se ti úkol zkopíruje to tvého Github účtu.  
 ![fork](fork.png)
-3. Tuto zkopírovanou složku si ze svého Githubu potom naklonuj k sobě na disk.
+3. Tento repozitář si ze svého Githubu potom naklonuj k sobě na disk.
 
 ![clone](clone.png)
 
@@ -11,7 +11,8 @@
  
 ![git clone](gitclone.png)
 4. Tady už můžeš přidávat, commitovat a pushovat změny a uvidíš je na svém Githubu.  
-Na to, jak udělat fork repozitáře se můžes podívat na [krátkém videu](https://youtu.be/K7rE3jRCjD4).
+! Pokud by sis naklonovala rovnou tento repozitář, nemohla bys do něj ukládat změny! \
+Na to, jak udělat fork repozitáře se můžes podívat v [krátkém videu](https://youtu.be/K7rE3jRCjD4).
 
 ## Zadání 
 Prohlédni si soubor index.html a spusť si ho v Live Serveru. Uvidíš *seznam kontaktů*. 
@@ -31,7 +32,6 @@ Prohlédni si strukturu html souboru.
   -  Pro plynulé zvětšení si najdi použití vlastnosti ```transition``` a uplatni ho na ikonky.
 
 ## Výsledek 
-Takto by měl vypadat výsledek: 
 ![Selektory_vysledek](selektory_result.gif)
 
 ### Ulož si změny do Githubu 
