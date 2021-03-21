@@ -18,7 +18,7 @@ Prohlédni si strukturu html souboru.
    1. ikonka zvětšila. Použij pro to vlasnost a hodnotu ```transform: scale(1.3);```
    2. kurzor změnil na pointer/ručičku (vlasnost ```cursor```)
 #### Bonus
-  -  Pro plynulé zvětšení si najdi použití vlastnosti ```transform``` a uplatni ho na ikonky.
+  -  Pro plynulé zvětšení si najdi použití vlastnosti ```transition``` a uplatni ho na ikonky.
 
 ## Výsledek 
 Takto by měl vypadat výsledek: 
