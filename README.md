@@ -44,11 +44,11 @@ Prohlédni si strukturu html souboru.
 
 ### Ulož si změny do Githubu
 
-V terminálu se přesuň do správné složky pomocí příkazu `cd ..` (přesune o složku výš) nebo `cd NAZEVSLOZKY` (přesune do složky)
+V terminálu se přesuň do správné složky. Pro přesunutí do složky použij , pro přesun o složku výš použij `cd ..`
 
-![git clone](git/gitclone.png)
+![git clone](git/folder.png) \
 
-Ve složce postupně spusť tyto příkazy:
+Ve složce postupně spusť tyto příkazy:\
 
 1. `git add .`
 2. `git commit -m "Moje zprava"`
