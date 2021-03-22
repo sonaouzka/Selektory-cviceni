@@ -27,7 +27,7 @@ Prohlédni si strukturu HTML souboru. V HTML nic neupravuj, ani nepřidávej. St
 3. Nastyluj ikony, tak aby se při najetí myši:   
     - ikonka zvětšila. Použij pro to vlasnost a hodnotu `transform: scale(1.3);`   
     - kurzor změnil na pointer/ručičku (vlasnost `cursor`)  
-Dej pozor, aby se nezvětšovala i fotografie.   
+Dej pozor, aby se změny na najetí myši neprojevily i na fotografii. 
 #### Bonus    
 Pro plynulé zvětšení si najdi použití vlastnosti `transition` a uplatni ho na ikonky.     
 
