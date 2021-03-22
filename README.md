@@ -19,14 +19,14 @@ Na to, jak udělat fork repozitáře se můžes podívat v [krátkém videu](htt
 ## Zadání   
 Prohlédni si soubor index.html a spusť si ho v Live Serveru. Uvidíš seznam kontaktů.   
 <img src="selektory_zadani.jpg" alt="Selektory zadani" width="500px" />    
-Prohlédni si strukturu html souboru.   
+Prohlédni si strukturu html souboru. Nic v něm neupravuj, stylování piš do souboru style.css  
 
 ### Pro stylování pouze selektory typu element, nebo pseudotřídy (nepoužívej třídy)   
 1. Každé druhé sekci přidej bílé pozadí    
 2. Fotografii přidej 3px silný rámeček barvy lightblue. Dej pozor, aby se rámeček nepřidal i ikonám.     
 3. Nastyluj ikony, tak aby se při najetí myši:   
-- ikonka zvětšila. Použij pro to vlasnost a hodnotu `transform: scale(1.3);`   
-- kurzor změnil na pointer/ručičku (vlasnost `cursor`)  
+    - ikonka zvětšila. Použij pro to vlasnost a hodnotu `transform: scale(1.3);`   
+    - kurzor změnil na pointer/ručičku (vlasnost `cursor`)  
 Dej pozor, aby se nezvětšovala i fotografie.   
 #### Bonus    
 Pro plynulé zvětšení si najdi použití vlastnosti `transition` a uplatni ho na ikonky.     
