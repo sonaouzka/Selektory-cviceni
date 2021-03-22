@@ -18,7 +18,7 @@ Na to, jak udělat fork repozitáře se můžes podívat v [krátkém videu](htt
 
 ## Zadání
 
-Prohlédni si soubor index.html a spusť si ho v Live Serveru. Uvidíš _seznam kontaktů_.
+Prohlédni si soubor index.html a spusť si ho v Live Serveru. Uvidíš seznam kontaktů.
 
 <img src="selektory_zadani.jpg" alt="Selektory zadani" width="500px" /> 
 
@@ -31,14 +31,14 @@ Prohlédni si strukturu html souboru.
 
 ### Pro tento úkol použij třídy
 
-- Nastyluj ikony pro volání a zprávu, tak aby se při najetí myši:
+Nastyluj ikony pro volání a zprávu, tak aby se při najetí myši:
 
 1.  ikonka zvětšila. Použij pro to vlasnost a hodnotu `transform: scale(1.3);`
 2.  kurzor změnil na pointer/ručičku (vlasnost `cursor`)
 
 #### Bonus
 
-- Pro plynulé zvětšení si najdi použití vlastnosti `transition` a uplatni ho na ikonky.
+Pro plynulé zvětšení si najdi použití vlastnosti `transition` a uplatni ho na ikonky.
 
 ## Výsledek
 
