@@ -19,7 +19,7 @@ Na to, jak udělat fork repozitáře se můžes podívat v [krátkém videu](htt
 ## Zadání   
 Prohlédni si soubor index.html a spusť si ho v Live Serveru. Uvidíš seznam kontaktů.   
 <img src="selektory_zadani.jpg" alt="Selektory zadani" width="500px" />    
-Prohlédni si strukturu html souboru. Nic v něm neupravuj, stylování piš do souboru style.css  
+Prohlédni si strukturu HTML souboru. V HTML nic neupravuj, ani nepřidávej. Stylování piš do souboru style.css  
 
 ### Pro stylování pouze selektory typu element, nebo pseudotřídy (nepoužívej třídy)   
 1. Každé druhé sekci přidej bílé pozadí    
