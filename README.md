@@ -21,12 +21,10 @@ Prohlédni si soubor index.html a spusť si ho v Live Serveru. Uvidíš seznam k
 <img src="selektory_zadani.jpg" alt="Selektory zadani" width="500px" />    
 Prohlédni si strukturu html souboru.   
 
-### V první části používej pro stylování pouze selektory typu element (nepoužívej třídy)   
+### Pro stylování pouze selektory typu element, nebo pseudotřídy (nepoužívej třídy)   
 1. Každé druhé sekci přidej bílé pozadí    
-2. Fotografii přidej 3px silný rámeček barvy lightblue. Dej pozor, aby se rámeček nepřidal i ikonám.   
-
-### Pro tento úkol použij třídy   
-Nastyluj ikony pro volání a zprávu, tak aby se při najetí myši:   
+2. Fotografii přidej 3px silný rámeček barvy lightblue. Dej pozor, aby se rámeček nepřidal i ikonám.     
+3. Nastyluj ikony pro volání a zprávu, tak aby se při najetí myši:   
 1.  ikonka zvětšila. Použij pro to vlasnost a hodnotu `transform: scale(1.3);`   
 2.  kurzor změnil na pointer/ručičku (vlasnost `cursor`)    
 
