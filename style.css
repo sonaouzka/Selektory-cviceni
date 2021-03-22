@@ -49,3 +49,8 @@ body {
 }
 
 /*----- Tvoje styly ------*/
+
+section:nth-child(2n) {
+background-color: white;
+}
+
