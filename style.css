@@ -54,3 +54,6 @@ section:nth-child(2n) {
 background-color: white;
 }
 
+section > img {
+  border: 3px solid lightblue;
+}
