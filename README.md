@@ -48,7 +48,7 @@ Prohlédni si strukturu html souboru.
 
 V terminálu se přesuň do správné složky. Pro přesunutí do složky použij  `cd NAZEVSLOZKY`, pro přesun o složku výš použij `cd ..`
 
-![git clone](git/folder.png)
+<img src="git/folder.png" alt="folder" width="700px" /> 
 
 Ve složce postupně spusť tyto příkazy:
 
