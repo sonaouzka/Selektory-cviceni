@@ -21,7 +21,7 @@ Prohlédni si soubor index.html a spusť si ho v Live Serveru. Uvidíš seznam k
 <img src="selektory_zadani.jpg" alt="Selektory zadani" width="500px" />    
 Prohlédni si strukturu HTML souboru. V HTML nic neupravuj, ani nepřidávej. Stylování piš do souboru style.css na konec.   
 
-### Pro stylování pouze selektory typu element, nebo pseudotřídy (nepoužívej třídy)   
+### Pro stylování používej pouze selektory typu element, nebo pseudotřídy (nepoužívej třídy)   
 1. Každé druhé sekci přidej bílé pozadí    
 2. Fotografii přidej 3px silný rámeček barvy lightblue. Dej pozor, aby se rámeček nepřidal i ikonám.     
 3. Nastyluj ikony, tak aby se při najetí myši:   
